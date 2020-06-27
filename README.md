@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Preview
-https://3000-d6fb763e-8456-44c7-9a61-fbef7c33be5a.ws-us02.gitpod.io/
-https://github.com/angelarsd/doxy.me-react/tree/master
+- https://3000-d6fb763e-8456-44c7-9a61-fbef7c33be5a.ws-us02.gitpod.io/
+- https://github.com/angelarsd/doxy.me-react/tree/master
 
 ## Available Scripts
 
